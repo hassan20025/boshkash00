@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>boshkash</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Jan 2023 14:50:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>DZgxzdgdfhdfhfgh</title>
+		<link>/2023/01/27/dzgxzdgdfhdfhfgh/11/55/24/76/hassanmohamed/uncategorized/</link>
+					<comments>/2023/01/27/dzgxzdgdfhdfhfgh/11/55/24/76/hassanmohamed/uncategorized/#respond</comments>
+		
+		<dc:creator><![CDATA[hassanmohamed]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2023 11:55:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=76</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/2023/01/27/dzgxzdgdfhdfhfgh/11/55/24/76/hassanmohamed/uncategorized/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
